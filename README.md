@@ -4,7 +4,7 @@ Hi, I'm Aaron Lee, a recent Computer Science graduate from UC Santa Cruz with a 
 
 #### Technical Expertise
 - **Languages & Frameworks**: Proficient in C++, Python, JavaScript, TypeScript, and C#. Experienced with React, Node.js, Deno, and AssemblyScript.
-- **Game Development**: Knowledgeable in C#/Unity and graphics programming, with hands-on experience in creating interactive and engaging game applications.
+- **Game Development**: Knowledgeable in C#/Unity, Phaser.js, and graphics programming, with hands-on experience in creating interactive and engaging game applications.
 - **Web Development**: Skilled in front-end and back-end development, utilizing modern technologies like HTML5 Canvas API, WebGL, and REST API development.
 
 #### Professional Experience
